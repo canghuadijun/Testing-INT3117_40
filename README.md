@@ -1,5 +1,7 @@
 # Lớp môn học: INT3117_40 (Kiểm thử và đảm bảo chất lượng phần mềm)
-- Sinh viên: Nguyễn Tương Quyết.
+## Thông tin sinh viên
+- Họ và tên: Nguyễn Tương Quyết.
+- MSSV: 20021423
 
 ## Tiến trình học:
 ### Bài tập kiểm thử hộp đen (deadline 13/10/2022)
